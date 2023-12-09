@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats-2wh9.vercel.app?user=TomSnd01&theme=shadow-red)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-2wh9.vercel.app?user=TomSnd01&theme=shadow-red&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 <!--
 **TomSander243/TomSander243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
